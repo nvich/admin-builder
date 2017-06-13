@@ -1,0 +1,22 @@
+{
+  "name": "@descco/admin-builder",
+  "version": "0.0.1",
+  "description": "Admin builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/descco-group/admin-builder.git"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "Hemerson Vianna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/descco-group/admin-builder/issues"
+  },
+  "homepage": "https://github.com/descco-group/admin-builder#readme"
+}
