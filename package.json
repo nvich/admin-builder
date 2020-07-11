@@ -1,5 +1,5 @@
 {
-  "name": "@descco/admin-builder",
+  "name": "@nvich/admin-builder",
   "version": "0.0.2",
   "description": "Admin builder",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/descco-group/admin-builder.git"
+    "url": "git+https://github.com/nvich/admin-builder.git"
   },
   "keywords": [
     "form"
@@ -16,7 +16,7 @@
   "author": "Hemerson Vianna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/descco-group/admin-builder/issues"
+    "url": "https://github.com/nvich/admin-builder/issues"
   },
-  "homepage": "https://github.com/descco-group/admin-builder#readme"
+  "homepage": "https://github.com/nvich/admin-builder#readme"
 }
